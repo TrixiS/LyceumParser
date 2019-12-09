@@ -2,9 +2,8 @@ from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
 
 from typing import List
-from enum import Enum
 
-from entities import *
+from .entities import *
 
 
 class YandexParser:
