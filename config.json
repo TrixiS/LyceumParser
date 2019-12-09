@@ -1,4 +1,5 @@
 {
     "yandex_username": "",
-    "yandex_password": ""
+    "yandex_password": "",
+    "webdriver_filepath": ""
 }
