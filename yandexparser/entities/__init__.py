@@ -5,7 +5,7 @@ class YandexEntity:
         self.url = kwargs.pop("url")
 
     def __str__(self):
-        return f"{self.name} - {self.entity_type.name.title()}({self.url})"
+        return f"{self.name} - {self.url}"
 
 
 class YandexCourse(YandexEntity):
@@ -37,3 +37,5 @@ class YandexTask(YandexEntity):
             self.is_manual = True
         else:
             self.is_manual = False
+
+        self.has_solution = 'solution' in self.url

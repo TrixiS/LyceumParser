@@ -1,7 +1,0 @@
-[1209/203019.495:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[1209/203019.495:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[1209/203019.495:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[1209/203019.495:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[1209/203019.495:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[1209/203019.495:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
-[1209/203019.495:ERROR:exception_snapshot_win.cc(98)] thread ID 8816 not found in process
